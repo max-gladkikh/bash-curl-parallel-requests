@@ -1,0 +1,4 @@
+# ide-шные штуки убираем из гита
+/nbproject/
+/.vscode/
+/.idea
